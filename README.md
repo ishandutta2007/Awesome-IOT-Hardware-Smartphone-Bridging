@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-IOT-Hardware-Smartphone-Bridging/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IOT-Hardware-Smartphone-Bridging?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-IOT-Hardware-Smartphone-Bridging/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IOT-Hardware-Smartphone-Bridging?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IOT-Hardware-Smartphone-Bridging/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IOT-Hardware-Smartphone-Bridging?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-IOT-Hardware-Smartphone-Bridging/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,7 +66,7 @@ The global IoT platform and device enablement market is estimated between **$17 
 
 ## 🛠️ Open-Source Equivalents & Tools
 
-Free and open-source software (FOSS) smartphone-to-hardware bridges, self-hosted IoT dashboards, local smart-home mobile hubs, microcontroller firmwares, and MQTT brokers. Sorted in descending order by GitHub stars.
+Free and open-source software (FOSS) smartphone-to-hardware bridges, self-hosted IoT dashboards, local smart-home mobile hubs, microcontroller firmwares, and MQTT brokers. Sorted in descending order by GitHub_Stars.
 
 ### 📶 ESP32 & Smartphone Direct Bridging Frameworks
 
